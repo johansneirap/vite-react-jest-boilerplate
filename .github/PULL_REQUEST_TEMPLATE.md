@@ -1,6 +1,6 @@
 ### Checklist
 
-🚨 Please review the [guidelines for contributing](./CONTRIBUTING.md) to this repository.
+🚨 Please review the [guidelines for contributing](../CONTRIBUTING.md) to this repository.
 
 - [ ] I have read and agree to the project's contributing guidelines
 - [ ] Make sure you are requesting to **pull a topic/feature/bugfix branch**
